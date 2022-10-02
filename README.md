@@ -4,7 +4,7 @@
 
 
 
-<img src="./img/IMG-PLAYSTATION-STORE" alt="foto do projeto finalizado">
+<img src="./img/IMG-PLAYSTATION-STORE.png" alt="foto do projeto finalizado">
 
 > resultado final do meu projeto .
 
